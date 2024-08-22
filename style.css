@@ -40,6 +40,11 @@ img {
    height: auto;
 }
 
+.image-circle {
+   border-radius: 50%;
+   
+}
+
 hr {
    border: 1px solid black;
 }
@@ -65,10 +70,5 @@ main div {
 
 footer {
    text-align: center;
-   
-}
-
-image-circle {
-   border-radius: 50%;
    
 }
